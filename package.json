@@ -1,4 +1,4 @@
-gh repo create{
+{
   "name": "TrabalhoSistDist",
   "version": "1.0.50",
   "scripts": {
