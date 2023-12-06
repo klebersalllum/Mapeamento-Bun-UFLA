@@ -1,16 +1,6 @@
 {
-  "name": "TrabalhoSistDist",
-  "version": "1.0.50",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "bun run --watch src/index.ts"
-  },
-  "dependencies": {
-    "elysia": "latest"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "bun-types": "latest",
-    "prisma": "^5.6.0"
-  },
-  "module": "src/index.js"
+    "prisma": "^5.7.0"
+  }
 }
